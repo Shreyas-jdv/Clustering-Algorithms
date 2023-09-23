@@ -1,19 +1,9 @@
 # Clustering Algorithms [![Linux GCC](https://github.com/Physicc/Light/actions/workflows/linux-gcc.yml/badge.svg)](https://github.com/Physicc/Light/actions/workflows/linux-gcc.yml)
 
-This is a project made for the CS293 course at IITB.
+Implementation of clustering algorithms in C++
 
 ## Supported Platforms:
 * Ubuntu 20
-
-## Prerequisites
-* GCC(>=8)
-* Simplecpp : Download simplecpp library version for Linux from [Prof. Ranade's website](https://www.cse.iitb.ac.in/~ranade/simplecpp/). Follow the instructions in its README for installation
-
-## Installation
-* Recursively clone the git module:
-```https://github.com/VedangAsgaonkar/Clustering-Algorithms```
-* In the working directory, open the makefile
-* Change the ```SIMPLECPP``` path in the makefile to the path to the simplecpp installation in your system
 
 ## Overview
 I have implemented four major clustering algorithms:
